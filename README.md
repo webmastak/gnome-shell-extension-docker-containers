@@ -26,7 +26,7 @@ The following actions are available :
 
 ## Installation
 
-You can install this extension by following this [link](https://github.com/webmastak/gnome-shell-extension-docker-containers).
+You can install this extension by following this [link](https://extensions.gnome.org/extension/1894/).
 
 ## Authors
 
